@@ -1,0 +1,2 @@
+grep        -grep is a search tool that searches through directories for lines that include its search term. It outputs those lines;
+            grep <search term>
