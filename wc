@@ -1,0 +1,2 @@
+wc        -Word Count command counts the 'words' within a file. There are various switches- such as 'l'- which will affect its functionality;
+          wc file
