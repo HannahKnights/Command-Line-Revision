@@ -1,0 +1,3 @@
+mv      -the move or rename command can be used in two ways; 
+        mv file path/file [will move your file to a new directory]
+        mv file file2 [renames file as file2]
